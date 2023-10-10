@@ -1,0 +1,14 @@
+{
+  "name": "maclea",
+  "version": "1.0.0",
+  "description": "Educational Machine Learning Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Youry",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
